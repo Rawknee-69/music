@@ -1,0 +1,27 @@
+
+{
+   "token": "MTE4ODU2NTYxMTg3MDE3NTQyNA.GFnbWU.DQZZtUAs2MbKcXQdoj2LoDpacMN_boPjpJKxsY",
+   "prefix": "/",
+   "ownerIDS": [
+      "778460273073848342"
+   ],
+   "status": {
+      "text": "Music",
+      "text2": "By: Rawknee.69",
+      "type": "PLAYING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "n1.ll.darrennathanael.com",
+            "port": 2269,
+            "password": "glasshost1984"
+         }
+      ]
+   },
+   "spotify": {
+      "clientID": "5d40d9ea81024f49b83e6257b5de69a6",
+      "clientSecret": "ba6b414473c64615b5ff030a359db4ac"
+   }
+}
